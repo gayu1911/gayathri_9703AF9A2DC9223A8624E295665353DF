@@ -17,16 +17,17 @@ Here project I’ve been working on:
 🏨 Hostel Management System – PHP + MySQL 
 
 🌱 Currently Learning
-Python Advanced Concepts
 
-Git & GitHub for Collaboration
+💻 Python Advanced Concepts
+
+🧰 Git & GitHub for Collaboration
 
 📫 How to reach me?
 ✉️ Email: r.gayathri19112004@gmail.com
 
 🔗 LinkedIn: [https://www.linkedin.com/in/-1911-gayathri]
 
-🐍 GitHub: []
+🐍 GitHub: [https://github.com/gayu1911/gayathri_9703AF9A2DC9223A8624E295665353DF]
 
 ✨ Fun Fact
 I’m passionate about teaching and inspiring others to learn just like I love to do!
